@@ -1,4 +1,4 @@
-
+# Extended
 
 ```
 |cyellowFour Horsemen
@@ -30,3 +30,28 @@
 ```
 
 _____
+
+# Simple
+```
+|cyellowFour Horsemen
+{diamond} Blameux: Void Zones. Don't stand in them.
+{triangle} Zeliek: C'thun beam. NO MELEE DPS. /range 10
+{circle} Mograine: Frontal Fire dmg.
+{star} Korth'Azz: Meteor. Stack on tank. Move in/out as a group.
+
+**Move after 3 marks.**
+{tank} Boss 1 -> Safe Spot -> Boss 2 -> Safe Spot -> Repeat
+{tank} Front Group ({circle}Mograine, {star}Korth'azz)
+{tank} Back Group ({diamond}Blameux, {triangle}Zeliek)
+
+{dps} {circle}Mograine -> {star}Korth'azz -> Safe Spot -> Repeat
+{dps} DPS Grp A [Start {circle}Mograine]
+{dps} DPS Grp B [Start {star}Korth'azz]
+{dps} DPS Grp C [Start Safe Spot]
+
+{healer} Move Clockwise, in a square (No safe spot!) {diamond}Blameux -> {triangle}Zeliek -> {circle}Mograine -> {star}Korth'azz -> Repeat
+{healer} Healer Grp 1 (Move Mark 1,4,7...)
+{healer} Healer Grp 2 (Move Mark 2,5,8...)
+{healer} Healer Grp 3 (Move Mark 3,6,9...)
+{healer} 1 healer from each group at a time at each boss
+```
