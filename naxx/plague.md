@@ -35,7 +35,39 @@ Boss TP's to platform. Entire raid down to the floor.
 
 ```
 
-## Loatheb
+## Loatheb (long)
+
+```
+Spores
+Pod 1 {skull} Sork;Raxhis;Towly;Pom;5th mage
+Pod 2 {x} Braikingboss;Axetwomouth;Pi;Kolossus;Intension
+Pod 3 {square} Drittz;Impedance;Wilkey;Nazgrom;Dedbundy
+Pod 4 {moon} Deathdotcom;Exxosted;Forand;Kostic;Tswiftthistle
+Pod 5 {circle} Boweeks;Geknip:Icemen;Topherlot;Id
+Pod 6 {star} Sanico;Fillers
+
+Healing {healer}
+0 - Kordesh
+5 - Zind
+10 - Goo
+15 - Jaiyla
+20 - XXXXXXXXXX
+25 - Vijay
+30 - Crayonz
+35 - Sjue
+40 - Ccow 
+45 - Boogerz
+50 - Tasteh
+55 - Dic 
+60 - Kordesh 
+
+Fill:
+Ïd
+Sanico
+Natuur
+```
+
+## Loatheb 
 
 ```
 |cyellowLoatheb
