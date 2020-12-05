@@ -76,7 +76,6 @@ Melee pre-pot NPP
 
 SPORES - groups of 5 at a time
 VERY IMPORTANT to not kill until 5 people are in melee.
-{mage} first prio
 
 Only the {tank}MT can receive healing. {healers} follow assigned order.
 
