@@ -1,3 +1,19 @@
+## Spider Trash
+
+```
+Spider Packs
+{skull} {x} {square} Carrion Spinner - face away; randomly pulls in target
+{moon} {diamond} Dread Creeper: {mage}{druid} Decurse tank
+{circle} Venom Stalker: Poison Charge - tank out of LOS, raid spread out when killing
+
+Crypy Reaver/Carrion Spinners - kill spinners first, tank reaver seperate
+
+Necro Stalker: Posion Charge - spread out
+
+```
+
+_____
+
 ## Anub’Rekhan
 
 ```
@@ -14,6 +30,18 @@ SPREAD OUT. Use a {icon 23472}HS or LIP if impaled.
 If any raiders die, more bugs spawn. Kill them.
 ```
 _____
+
+## Faerlina Trash
+8 mobs, random counts of:
+Naxxarmas Acolyte
+{skull}{rogue} Intension kick
+{X}{rogue} Tswift kick
+{square}{rogue} Nazgrom kick
+{moon}{rogue} Dedbundy kick
+ALL other classes interrupt as well
+
+Naxxramas Cultist
+Kill last, tank against wall out of raid. {tank} knockback is threat wipe
 
 ## Grand Widow Faerlina
 
