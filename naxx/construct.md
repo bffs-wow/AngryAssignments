@@ -3,12 +3,12 @@
 ```
 |cyellowPatchwerk
 Hateful Strike: Hits highest HP {tank} who is 2nd, 3rd or 4th in threat every 1.2s. Will hit tank for 7-8k+. 
-{healer}Follow healing assignments - healing must be spammed, no way to anticipate the damage.
+{healer} Follow healing assignments - Need ~3k HPS on each OT. Do not heal anyone else.
 {icon 10170}Amplify Magic Tanks
 {tank} Must use stoneshield, highest mitigation gear. Flasks for progression.
 
 This is an output fight. Need to deal 4 million damage before healers go OOM.
-Watch threat - if you pass #4, you die. 
+Watch threat on pull. Once all 4 tanks have been hit, go hard. 
 Enrage at 5% - tanks shield wall.
 ```
 
@@ -20,7 +20,7 @@ _____
 |cyellowGrobbulus
 {tank} starts at far corner by ramp
 {icon 28240}Poison Cloud. When cast, tank moves just out of range. Slowly move counter-clockwise around the wall as clouds drop.
-{icon 28169}Mutating Injection. Like Geddon Bomb. Move *BEHIND* boss - NOT in front of boss, near wall. ***DO NOT CLEANSE*** until the target is away from the raid.
+{icon 28169}Mutating Injection. Like Geddon Bomb. Move *BEHIND* boss pathing and clouds - NOT in front of boss, near wall. ***DO NOT CLEANSE*** until the target is away from the raid.
 
 Boss must always face away from raid.
 ```
