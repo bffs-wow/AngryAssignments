@@ -24,7 +24,8 @@ _____
 Pull Adds away from boss. Kill adds first. Face away (Cleave)
 AoE Bugs on add death.
 
-SPREAD OUT. Use a {icon 23472}HS or LIP if impaled.
+SPREAD OUT. Use a {icon 23472}HS or LIP if impaled. {mage} blink. {druid} cat form
+Impale hits cloth around ~3500. Falling damage around ~900. Wear stam gear if under 4500 HP.
 
 {icon 28786}Locust Swarm: Boss moves slow. MT kites boss around edge of room. All melee out. Kill add that spawns
 
