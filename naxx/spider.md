@@ -21,7 +21,7 @@ _____
 |cyellowAnub'Rekhan
 {tank}Yits Boss
 {tank}{skull} Log {tank}{x} Pi
-Pull Adds away from boss. Kill adds first. Face away (Cleave)
+Pull Adds away from boss. Kill adds first. Face away (Cleave.) Melee FAP if webbed when adds die
 AoE Bugs on add death.
 
 SPREAD OUT. Use a {icon 23472}HS or LIP if impaled. {mage} blink. {druid} cat form
