@@ -52,7 +52,7 @@ Kill last, tank against wall out of raid. {tank} knockback is threat wipe
 
 ```
 |cyellowGrand Widow Faerlina
-{tank}Yits Boss
+{tank}Yits Boss - Move out of rain of fire.
 {tank}{skull}Follower Log
 {tank}{x}Follower Wilkey
 {tank} Worshippers Pi & Tank 2
@@ -61,6 +61,7 @@ Kill {skull}/{x} first (cleave in melee of boss)
 
 {priest} Id {icon 605}MC Worshipper; Sacrifice ({icon 28732}Widow's Embrace) as soon as {skull}/{x} die, or if she enrages.
   Repeat Sacrifice ({icon 28732}) every 30 seconds.
+  If MC drops, mob cannot be re-MC for 60 seconds.
 
 2 minutes to kill boss after first sacrifice
 ```
