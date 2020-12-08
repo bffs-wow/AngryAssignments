@@ -9,7 +9,8 @@ Spider Packs
 Crypy Reaver/Carrion Spinners - kill spinners first, tank reaver seperate
 
 Necro Stalker: Posion Charge - spread out
-
+--
+AOE Skitterers: {mage}Wait for some tank threat, these hit very hard.
 ```
 
 _____
@@ -32,8 +33,10 @@ If any raiders die, more bugs spawn. Kill them.
 _____
 
 ## Faerlina Trash
+
+```
 8 mobs, random counts of:
-Naxxarmas Acolyte
+Naxxarmas Acolyte - Interrupt Shadowbolt Volley!
 {skull}{rogue} Intension kick
 {X}{rogue} Tswift kick
 {square}{rogue} Nazgrom kick
@@ -42,6 +45,7 @@ ALL other classes interrupt as well
 
 Naxxramas Cultist
 Kill last, tank against wall out of raid. {tank} knockback is threat wipe
+```
 
 ## Grand Widow Faerlina
 
@@ -62,15 +66,30 @@ Kill {skull}/{x} first (cleave in melee of boss)
 
 _____
 
+## Spider Hallways Trash
+
+```
+{shaman} on most packs, be ready for poison charge/volley, drop poison cleanse totem
+--2 Big Spiders: group, cleave. Poison totems
+--4 Ghoul Packs
+Frenzy when low, stunnable
+{skull}{rogue} Intension stun
+{X}{rogue} Tswift stun
+{square}{rogue} Nazgrom stun
+{moon}{rogue} Dedbundy stun
+
+--Shade of Naxxramas: Use short CDs (trinkets, deathwish) - RUSH AND KILL ASAP
+--2 Acolytes in doorways: Move to corner, pull with LOS. Use short CDS and burn ASAP
+```
+
 ## Maexxna
 
 ```
 |cyellowMaexxna
-Pre-pot GNPP
 {tank} Boss facing away from raid
 Ranged {dps} free web wrapped targets against wall
 {druid}{shaman} Poison Cleanse {tank}
-
+Ranged{dps} and {healer} stack on {star}
 {dps} AOE adds 10 seconds before {icon 29484}Web Spray VERY IMPORTANT
 
 {icon 29484}Web Spray: Every 40 seconds, entire raid stunned for *10 seconds*
