@@ -16,21 +16,22 @@ If he TPs up to platform, kill waves of adds until he comes down.
 
 ```
 |cyellowHeigan the Unclean
-Get yer dancin' shoes on. No dying to slime!
-
 4 "Zones" on the floor: 3 will explode and 1 will be safe, in a pattern.
 
-PHASE 1
-All ranged/healers on platform. (boss Manage Burns melee)
+|cyellowPHASE 1
+All ranged/healers on platform. (boss Mana Burns melee)
 {tank}/Melee{dps} on ground with boss.
- - Stay with {star}
+ - Stay with {square}
+ - {priest}{shaman}Disease Cleanse {tank}{icon 29998}
 Dance pattern is slow in this phase.
 
-3 People will be randomly TP'ed to gauntlet room. Fight back to room. RE-ENTER WHEN DANCE GETS TO DOOR
+3 People will be randomly TP'ed to gauntlet room. *Wait until 6 people are TPed* - Fight back to room. 
+RE-ENTER WHEN DANCE GETS TO DOOR
 
-PHASE 2
-Boss TP's to platform. Entire raid down to the floor.
- - STAY WITH {star} (but ideally don't rely on that and follow the pattern)
+After last tp (<8s remain) melee go to zone 1
+|cyellowPHASE 2
+Boss TP's to platform. Entire raid down to the floor in zone 1.
+ - STAY WITH {square} (but don't rely on that and follow the pattern)
  Dance pattern is quick! If you stop moving or fall behind, you WILL die!
 
 ```
