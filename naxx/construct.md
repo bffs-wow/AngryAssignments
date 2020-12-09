@@ -50,12 +50,12 @@ _____
 ```
 |cyellowGluth
 Pull: entire raid goes through green tube. STAY RIGHT. Boss engages as soon as you leave the tube.
-{mage}{hunter} Kiting Zombie Chow. Spawn from grates, they move slow. Use traps, frost nova, etc. Do not allow them near the boss.
-
+{mage}{hunter}{warrior} Kiting Zombie Chow. Spawn from grates, they move slow. Use traps, frost nova, etc. Do not allow them near the boss.
+{priest} Shackle and loose Zombie Chow.
 Decimate: Every 60 seconds, entire raid + Zombie Chow reduced to 5%. NS Rotation/bubble for {tank}
  - After Decimate, Zombie Chow will run to the boss. They MUST be killed before they reach him.
  - If a zombie chow reaches the boss at any point, he heals for 5%.
-{tank} stance dance fear
+{tank} stance dance fear. {shaman} Keep {icon 8143} tremor down. 
 {hunter}{icon 19801}Tranq boss
 ```
 
