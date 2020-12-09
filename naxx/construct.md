@@ -24,9 +24,9 @@ Hateful Strike: Hits highest HP {tank} who is 2nd, 3rd or 4th in threat every 1.
 {healer} Follow healing assignments - Need ~3k HPS on each OT. Do not heal anyone else.
 {icon 10170}Amplify Magic Tanks
 {tank} Must use stoneshield, highest mitigation gear. Flasks for progression.
+{dps} WAIT FOR CALLOUT TO START. Stay out of melee until told to start. Once in, threat should not be an issue.
 
 This is an output fight. Need to deal 4 million damage before healers go OOM.
-Watch threat on pull. Once all 4 tanks have been hit, go hard. 
 Enrage at 5% - tanks shield wall.
 ```
 
