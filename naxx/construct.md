@@ -1,3 +1,21 @@
+## Trash
+
+```
+Patchwork Golem - AOE Stun/Cleave/Cloud - SPREAD OUT. Use FAP
+Bile Retcher - Frontal cone. Knockback - Face away. Kill first.
+Sewage Slime - AOE.
+Embalming sline - NO MELEE. Kide/AOE ranged.
+
+|cyellow Scientist Packs Monstrosity > Scientist > Assistants
+Monstrosity: KILL TOTEMS. AOE fear, use {icon 8143} tremor.
+Scientist:{X}{rogue} Tswift kick heal
+Scientist:{square}{rogue} Nazgrom kick heal
+Scientist:{moon}{rogue} Dedbundy kick heal
+(other classes help)
+Assistants: Stun/interrupt mindflays (iron/thorium grenade)
+```
+
+_____
 ## Patchwerk
 
 ```
