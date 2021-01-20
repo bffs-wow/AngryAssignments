@@ -40,32 +40,21 @@ Boss TP's to platform. Entire raid down to the floor in zone 1.
 
 ```
 Spores
-Pod 1 {skull} Sork;Raxhis;Towly;Pom;5th mage
-Pod 2 {x} Braikingboss;Axetwomouth;Pi;Kolossus;Intension
-Pod 3 {square} Drittz;Impedance;Wilkey;Nazgrom;Dedbundy
-Pod 4 {moon} Deathdotcom;Exxosted;Forand;Kostic;Tswiftthistle
-Pod 5 {circle} Boweeks;Geknip:Icemen;Topherlot;Id
-Pod 6 {star} Sanico;Fillers
+Pod 1 {skull}{mage} Sork;Raxhis;Towly;Parabolaa;Braiking
+Pod 2 {x}{warrior}/{rogue} Pi;Axetwomouth;Dritzz;Wilkey
+Pod 3 {square}{warrior}/{rogue} Logarhythm;Nazgrom;Qruz;Sonar;Tswiftthistle
+Pod 4 {moon}{warlock} Deathdotcom;Dedbundy;Forand;Kostic;Natuur
+Pod 5 {circle}{hunter} Boweeks;Geknip:Alcatraz;Icemen;Skeletore
+Pod 6 {star}{dps} Sanico;
 
-Healing {healer}
-0 - Kordesh
-5 - Zind
-10 - Goo
-15 - Jaiyla
-20 - XXXXXXXXXX
-25 - Vijay
-30 - Crayonz
-35 - Sjue
-40 - Ccow 
-45 - Boogerz
-50 - Tasteh
-55 - Dic 
-60 - Kordesh 
-
-Fill:
-Ïd
-Sanico
-Natuur
+{icon 29204}Inevitable Doom
+2:10 2nd GSPP
+2:40 Nothing
+3:10 Bandage (MELEE OUT to bandage)
+3:40 Healthstone/Whipper Root
+4:10 GSPP & Bandage
+4:40 Nothing
+5:10 Bandage
 ```
 
 ## Loatheb 
