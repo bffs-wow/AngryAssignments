@@ -36,40 +36,19 @@ Boss TP's to platform. Entire raid down to the floor in zone 1.
 
 ```
 
-## Loatheb (long)
+## Loatheb
 
 ```
 Spores
-Pod 1 {skull}{mage} Sork;Raxhis;Towly;Parabolaa;Braiking
-Pod 2 {x}{warrior}/{rogue} Pi;Axetwomouth;Dritzz;Wilkey
-Pod 3 {square}{warrior}/{rogue} Logarhythm;Nazgrom;Qruz;Sonar;Tswiftthistle
-Pod 4 {moon}{warlock} Deathdotcom;Dedbundy;Forand;Kostic;Natuur
-Pod 5 {circle}{hunter} Boweeks;Geknip:Alcatraz;Icemen;Skeletore
-Pod 6 {star}{dps} Sanico;
+Pod 1 {skull}{mage}/{warrior} Sork;Raxhis;Parabolaa;Towly;Braiking 
+Pod 2 {x}{mage}/{warrior} Dritzz;Skiby;Axetwomouth;Valerimus;Dessembrae
+Pod 3 {square}{warrior}/{rogue} Logarhythm;Nazgrom;Dedbundy;Ovtarcular;Qruz;
+Pod 4 {moon}{warlock} Forand;Kostic;Wilkey;Pi;Billax;
+Pod 5 {circle}{hunter} Alcatraz;Icemen;Deathdotcom;Natuur;Sonar
+Pod 6 {star}{dps} Geknip:Id;<Missed/Fill/Healer>
+
 
 {icon 29204}Inevitable Doom
-2:10 2nd GSPP
-2:40 Nothing
-3:10 Bandage (MELEE OUT to bandage)
-3:40 Healthstone/Whipper Root
-4:10 GSPP & Bandage
-4:40 Nothing
-5:10 Bandage
-```
-
-## Loatheb 
-
-```
-|cyellowLoatheb
-ENTIRE RAID MUST pre-pot GSPP
-Melee pre-pot NPP
-
-SPORES - groups of 5 at a time
-VERY IMPORTANT to not kill until 5 people are in melee.
-
-Only the {tank}MT can receive healing. {healers} follow assigned order.
-
-{icon 29204}Inevitable Doom USE WEAKAURA
 2:10 2nd GSPP
 2:40 Nothing
 3:10 Bandage (MELEE OUT to bandage)
