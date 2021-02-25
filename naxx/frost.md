@@ -16,5 +16,24 @@ Get behind an ice block.
 
 KT
 ```
-3 interrupt groups
+pre-pot GFRPP, /range 11
+Phase 1 - DO NOT PULL ANY MOBS. No TF.
+Abom: rotate Tanks, Stunlock
+Soul weaver (ghost): Ranged MUST kill before they reach the raid
+Skeletons: Ranged MUST kill before they reach the raid
+
+Phase 2
+Spread into assigned spots /range 11
+3 interrupt groups - a missed interrupt is a wipe (weakaura)
+OTs stay high on threat
+Warrior use intimidating shout
+Mind Control: Poly/fear/blind
+
+GET OUT of red void zone
+Frost Blast: targets MUST be healed or they will die
+
+Phase 3
+5 Guardians of icecrown
+3 Shackles (Id, Kordesh, Crayonz) - ONLY 3, no more or they all break
+2 Tank/Kite (hamstring). Do not let them change targets
 ```
